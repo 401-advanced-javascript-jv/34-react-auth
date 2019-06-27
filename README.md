@@ -5,15 +5,17 @@
 ### Author: Jesse Van Volkinburg
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-jv/34-react-auth/pull/1)
 * [front-end](https://codesandbox.io/s/34-context-api-xqgcu) (CodeSandbox)
-* [styleguide](http://xyz.com) (React assignments)
 
 ### Setup
+- Navigate to CodeSandbox and [create a new sandbox from GitHub](https://codesandbox.io/s/github)
+- Use the URL `https://github.com/401-advanced-javascript-jv/34-react-auth/tree/submission` as the source for the sandbox
+- Use the app
 
 #### Running the app
 - Navigate to https://xqgcu.codesandbox.io/
-- Use app
+- Use the app
 
 #### Tests
 - No testing has been performed
