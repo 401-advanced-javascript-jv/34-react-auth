@@ -1,11 +1,12 @@
 {
-  "name": "demo-context-api",
+  "name": "34-context-api",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "16.8.6",
+    "react-cookies": "0.1.1",
     "react-dom": "16.8.6",
     "react-jsonschema-form": "1.0.6",
     "react-router-dom": "5.0.0",
