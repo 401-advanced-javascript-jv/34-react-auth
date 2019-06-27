@@ -12,14 +12,9 @@
 ### Setup
 
 #### Running the app
-- Navigate to [CodeSandbox](https://codesandbox.io)
-- Create a [new sandbox](https://codesandbox.io/s/github) from GitHub source
-- Use []()
+- Navigate to https://xqgcu.codesandbox.io/
+- Use app
 
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+- No testing has been performed
 
-#### UML
-Link to an image of the UML for your application and response to events
